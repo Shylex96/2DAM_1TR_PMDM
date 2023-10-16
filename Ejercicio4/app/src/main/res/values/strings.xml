@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio4</string>
+    <string name="numPassword">Aquí tu correo electrónico</string>
+    <string name="btnPulsar">PULSAR</string>
+</resources>

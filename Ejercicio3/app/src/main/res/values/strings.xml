@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio3</string>
+    <string name="numPassword">Aquí una clave</string>
+    <string name="btnPulsar">PULSAR</string>
+</resources>

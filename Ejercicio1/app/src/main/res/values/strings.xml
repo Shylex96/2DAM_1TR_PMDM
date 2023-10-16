@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio1</string>
+    <string name="pulsar">Pulsar</string>
+    <string name="placehold"></string>
+    <string name="placeholder">Aquí una palabra</string>
+    <string name="mensajeError">No escribiste nada</string>
+</resources>
