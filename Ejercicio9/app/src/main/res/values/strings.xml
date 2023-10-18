@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio9</string>
+    <string name="lblFecha">Indicar la fecha:</string>
+    <string name="placeholder">Indicar la fecha:</string>
+    <string name="btnPulsar">PULSAR</string>
+    <string name="mensajeErrorFechaIncorrecta">¡Fecha Incorrecta!</string>
+    <string name="mensajeError">Formato incorrecto</string>
+</resources>
