@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mi Aplicación</string>
+    <string name="nombreUsuario1">TextView</string>
+    <string name="nombreUsuario2">TextView</string>
+    <string name="name1">Name</string>
+    <string name="name2">Name</string>
+</resources>
