@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">EjemploIntentExplicito</string>
     <string name="miTexto">Iniciar actividad secundaria</string>
+    <string name="escribeHint">Escribe algo</string>
 </resources>
