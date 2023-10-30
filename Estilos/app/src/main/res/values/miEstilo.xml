@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="miEstilo" parent="@style/Theme.Estilos">
+        <item name="android:textColor">#4DF52F</item>
+    </style>
+</resources>

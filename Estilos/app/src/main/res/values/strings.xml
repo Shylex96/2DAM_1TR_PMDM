@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Estilos</string>
+    <string name="labelName">Nombre:</string>
+    <string name="labelPassword">Clave:</string>
+    <string name="labelAceptar">Aceptar</string>
+    <string name="labelLimpiar">Limpiar</string>
+    <string name="placeholder">Aquí tu nombre</string>
+</resources>
