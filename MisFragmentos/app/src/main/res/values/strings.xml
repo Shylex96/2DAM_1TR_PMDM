@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MisFragmentos</string>
+    <string name="help">Ayuda</string>
+    <string name="about">Acerca de</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="acerca_de">Fragmento Acerca de</string>
+    <string name="ayuda">Fragmento Ayuda</string>
+</resources>
