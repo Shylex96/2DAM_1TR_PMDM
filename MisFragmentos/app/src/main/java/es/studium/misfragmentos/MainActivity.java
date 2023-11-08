@@ -36,8 +36,16 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         if (v.getId()==(R.id.btnHelp)) {
             ayuda = fm.findFragmentByTag("ayuda");
             if (ayuda == null) {
+
+                Bundle datos = new Bundle();
+                datos.putLong("id", 123L);
+                datos.putInt("edad", 21);
+                datos.putString("nombre", "California");
+                Fragment fragmento = new Ayuda();
+                fragmento.setArguments(datos);
+
                 ft = fm.beginTransaction();
-                ft.replace(R.id.contenedorFragmento, new Ayuda(), "ayuda");
+                ft.replace(R.id.contenedorFragmento, fragmento, "ayuda");
                 ft.commit();
             }
         }
